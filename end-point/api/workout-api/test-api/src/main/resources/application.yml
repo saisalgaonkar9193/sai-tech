@@ -1,0 +1,42 @@
+server:
+  port: 7014
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:7000/eureka/
+
+spring:
+  application:
+    name: test
+
+hystrix:
+  command:
+    default:
+      execution:
+        isolation:
+          thread:
+            timeoutInMilliseconds: 10000
+
+feign:
+  hystrix:
+    enabled: true
+  client:
+    config:
+      default:
+        connectTimeout: 10000
+        readTimeout: 10000
+
+sai:
+  learn:
+    validator:
+      motor:
+        chasis:
+          regex:
+            validate: true
+            value: ^[a-zA-Z0-9]{0,22}$
+            message: Chasis no must be Alpha Numeric and 22 Character Long
+            val:
+              - 1
+              - 2
+

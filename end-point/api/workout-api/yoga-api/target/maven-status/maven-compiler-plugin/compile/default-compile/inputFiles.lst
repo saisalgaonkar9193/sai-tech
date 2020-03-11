@@ -1,0 +1,10 @@
+/home/himanshu/Himanshu/self/multi-module/sai-tech/end-point/api/workout-api/yoga-api/src/main/java/sai/learn/services/CategoryService.java
+/home/himanshu/Himanshu/self/multi-module/sai-tech/end-point/api/workout-api/yoga-api/src/main/java/sai/learn/aop/SymboLoggerAspect.java
+/home/himanshu/Himanshu/self/multi-module/sai-tech/end-point/api/workout-api/yoga-api/src/main/java/sai/learn/services/CategoryServiceImpl.java
+/home/himanshu/Himanshu/self/multi-module/sai-tech/end-point/api/workout-api/yoga-api/src/main/java/sai/learn/controller/TestClass.java
+/home/himanshu/Himanshu/self/multi-module/sai-tech/end-point/api/workout-api/yoga-api/src/main/java/sai/learn/controller/YogaController.java
+/home/himanshu/Himanshu/self/multi-module/sai-tech/end-point/api/workout-api/yoga-api/src/main/java/sai/learn/documents/YogaDocument.java
+/home/himanshu/Himanshu/self/multi-module/sai-tech/end-point/api/workout-api/yoga-api/src/main/java/sai/learn/YogaApplication.java
+/home/himanshu/Himanshu/self/multi-module/sai-tech/end-point/api/workout-api/yoga-api/src/main/java/sai/learn/repository/YogaDocumentRepository.java
+/home/himanshu/Himanshu/self/multi-module/sai-tech/end-point/api/workout-api/yoga-api/src/main/java/sai/learn/dto/Category.java
+/home/himanshu/Himanshu/self/multi-module/sai-tech/end-point/api/workout-api/yoga-api/src/main/java/sai/learn/aop/SymboNotifier.java

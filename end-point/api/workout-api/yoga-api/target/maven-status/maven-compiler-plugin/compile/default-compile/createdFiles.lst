@@ -1,0 +1,10 @@
+sai/learn/documents/YogaDocument.class
+sai/learn/controller/YogaController.class
+sai/learn/controller/TestClass.class
+sai/learn/dto/Category.class
+sai/learn/aop/SymboNotifier.class
+sai/learn/services/CategoryService.class
+sai/learn/repository/YogaDocumentRepository.class
+sai/learn/YogaApplication.class
+sai/learn/services/CategoryServiceImpl.class
+sai/learn/aop/SymboLoggerAspect.class

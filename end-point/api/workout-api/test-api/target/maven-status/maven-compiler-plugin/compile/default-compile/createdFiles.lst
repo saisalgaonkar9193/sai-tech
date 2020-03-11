@@ -1,0 +1,10 @@
+sai/learn/feign/ExerciseTest.class
+sai/learn/service/TestService.class
+sai/learn/feign/Test.class
+sai/learn/feign/CrossFitTest.class
+sai/learn/feign/FeignConfig.class
+sai/learn/controller/TestFeign.class
+sai/learn/feign/ExerciseTestFallback.class
+sai/learn/feign/FeignDecoder.class
+sai/learn/feign/CrossFitTestFallback.class
+sai/learn/TestApplication.class

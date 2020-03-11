@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="common-api" />
+        <module name="crossfit-api" />
+        <module name="exercise-api" />
+        <module name="kafka-producer" />
+        <module name="product-api" />
+        <module name="router" />
+        <module name="server" />
+        <module name="test-api" />
+        <module name="user-api" />
+        <module name="yoga-api" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="api" target="1.8" />
+      <module name="common-api" target="1.8" />
+      <module name="crossfit-api" target="1.8" />
+      <module name="end-point" target="1.8" />
+      <module name="exercise-api" target="1.8" />
+      <module name="kafka-producer" target="1.8" />
+      <module name="kafka-services" target="1.8" />
+      <module name="product-api" target="1.7" />
+      <module name="router" target="1.8" />
+      <module name="sai-tech" target="1.8" />
+      <module name="server" target="1.8" />
+      <module name="test-api" target="1.8" />
+      <module name="user-api" target="1.8" />
+      <module name="utility-services" target="1.8" />
+      <module name="workout-api" target="1.8" />
+      <module name="yoga-api" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

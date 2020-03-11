@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/end-point/api/api.iml" filepath="$PROJECT_DIR$/end-point/api/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/end-point/api/workout-api/common-api/common-api.iml" filepath="$PROJECT_DIR$/end-point/api/workout-api/common-api/common-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/end-point/api/workout-api/crossfit-api/crossfit-api.iml" filepath="$PROJECT_DIR$/end-point/api/workout-api/crossfit-api/crossfit-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/end-point/end-point.iml" filepath="$PROJECT_DIR$/end-point/end-point.iml" />
+      <module fileurl="file://$PROJECT_DIR$/end-point/api/workout-api/exercise-api/exercise-api.iml" filepath="$PROJECT_DIR$/end-point/api/workout-api/exercise-api/exercise-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utility-services/kafka-services/kafka-producer/kafka-producer.iml" filepath="$PROJECT_DIR$/utility-services/kafka-services/kafka-producer/kafka-producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utility-services/kafka-services/kafka-services.iml" filepath="$PROJECT_DIR$/utility-services/kafka-services/kafka-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/end-point/api/product-api/product-api.iml" filepath="$PROJECT_DIR$/end-point/api/product-api/product-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/end-point/router/router.iml" filepath="$PROJECT_DIR$/end-point/router/router.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sai-tech.iml" filepath="$PROJECT_DIR$/sai-tech.iml" />
+      <module fileurl="file://$PROJECT_DIR$/end-point/server/server.iml" filepath="$PROJECT_DIR$/end-point/server/server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/end-point/api/workout-api/test-api/test-api.iml" filepath="$PROJECT_DIR$/end-point/api/workout-api/test-api/test-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/end-point/api/user-api/user-api.iml" filepath="$PROJECT_DIR$/end-point/api/user-api/user-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utility-services/utility-services.iml" filepath="$PROJECT_DIR$/utility-services/utility-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/end-point/api/workout-api/workout-api.iml" filepath="$PROJECT_DIR$/end-point/api/workout-api/workout-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/end-point/api/workout-api/yoga-api/yoga-api.iml" filepath="$PROJECT_DIR$/end-point/api/workout-api/yoga-api/yoga-api.iml" />
+    </modules>
+  </component>
+</project>

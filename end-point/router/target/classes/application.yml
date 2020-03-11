@@ -1,0 +1,26 @@
+server:
+  port: 7001
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: ${EUREKA_URI:http://localhost:7000/eureka}
+  instance:
+    preferIpAddress: true
+
+spring:
+  application:
+    name: router
+
+zuul:
+  prefix: /api
+  routes:
+    yoga:
+      path: /yoga/**
+      serviceId: yoga
+    exercise:
+      path: /exercise/**
+      serviceId: exercise
+    crossfit:
+      path: /crossfit/**
+      serviceId: crossfit
